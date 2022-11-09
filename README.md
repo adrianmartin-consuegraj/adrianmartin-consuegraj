@@ -1,9 +1,7 @@
-### Willkommen! 👋
+### Willkommen! 
 
 ## About me
-- My name is Adrián.
-- I was born in Madrid, Spain.
-- I'm 29 years old
+- 👋 I'm Adrián and I'm from Madrid, Spain.
 - I can speak English, Spanish and a little bit of German.
 - 🔭 I’m currently working as a Java Developer.
 - 🌱I'm learning and getting used to React.
@@ -20,33 +18,21 @@
 <!-- JavaScript -->
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
 
-
-<!-- PHP -->
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Vigual Studio Code -->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+
+
+<!-- 
 ## Top Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmartin-consuegraj&theme=tokyonight)
-
+-->
 
 <!-- 
 this line it's for the visitor counter
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.adrianmartin-consuegraj)
- -->
+-->
 
 <!--
 ==========================================================
