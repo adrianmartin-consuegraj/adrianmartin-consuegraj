@@ -1,21 +1,33 @@
-### Willkommen! 
+# Willkommen!👋
 
 ## About me
-- 👋 I'm Adrián and I'm from Madrid, Spain.
+- I'm Adrián and I'm from Madrid, Spain.
 - I can speak English, Spanish and a little bit of German.
 - 🔭 I’m currently working as a Java Developer.
 - 🌱I'm learning and getting used to React.
 
-## 🧰 Languages and Tools:
-<p align="center">
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
-</p>
+## Languages and Tools:
+[![My Skills](https://skills.thijs.gg/icons?i=java,react,js,mysql,html,css,git,docker)](https://skills.thijs.gg)
+
+
+## Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmartin-consuegraj&layout=compact"/>
+
+
+
+
+
 
 <!-- 
 go to this website to add more icons:
 https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/
 -->
+
+
+
+
+
 
 
 
