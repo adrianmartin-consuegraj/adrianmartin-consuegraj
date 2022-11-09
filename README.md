@@ -1,4 +1,5 @@
-### Hi there 👋
+### Willkommen! 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.adrianmartin-consuegraj)
 
 <!--
 **adrianmartin-consuegraj/adrianmartin-consuegraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmartin-consuegraj&theme=tokyonight)
