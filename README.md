@@ -7,7 +7,7 @@
 - 🌱I'm learning and getting used to React.
  
 ## Languages and Tools
-[![My Skills](https://skills.thijs.gg/icons?i=java,react,js,mysql,html,css,git,docker)]
+![My Skills](https://skills.thijs.gg/icons?i=java,react,js,mysql,html,css,git,docker)
 
 
 ## Most Used Languages
@@ -21,16 +21,25 @@
 
 
 
+
 <!-- 
-
-<h2 align="center">About me</h2>
-
-
 go to this website to add more icons:
 https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/
 -->
 
 
+
+
+
+
+
+
+
+
+<!-- 
+[![My Skills](https://skills.thijs.gg/icons?i=java,react,js,mysql,html,css,git,docker)]
+(https://skills.thijs.gg)
+-->
 
 
 
