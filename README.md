@@ -6,12 +6,11 @@ Now I'm focused on mastering Spring, Spring Boot and React.
 
 ## About me
 - 🏡 I'm currently in Madrid, Spain.
-- 💬 I can speak English, Spanish and a little bit of German.
-- 🔭 I work as a Java Developer.
-- 🌱 I'm still learning and getting used to React.
+- 💬 I can speak English, Spanish and a little bit of Portuguese and German.
+- 🌱 I work as a Java & React Developer.
  
 ## Languages and Tools
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> ![My Skills](https://skills.thijs.gg/icons?i=java,react,js,mysql,html,css,git,docker)
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> ![My Skills](https://skills.thijs.gg/icons?i=react,java,js,mysql,html,css,git,docker)
 
 ## Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmartin-consuegraj&layout=compact"/>
