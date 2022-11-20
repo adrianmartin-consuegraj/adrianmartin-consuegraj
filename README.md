@@ -10,7 +10,80 @@ Now I'm focused on mastering Spring, Spring Boot and React.
 - 🌱 I work as a Java & React Developer.
  
 ## Languages and Tools
+<!-- https://www.vectorlogo.zone/logos/#mno -->
+
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> ![My Skills](https://skills.thijs.gg/icons?i=react,java,js,mysql,html,css,git,docker)
+
+
+
+
+
+
+<div>
+ 
+<!-- Frameworks and libraries -->
+<h4>■ Frameworks & libraries</h4>
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/>
+
+<h4>→ Languages</h4>
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="50" height="50"/>
+ 
+ 
+<h4>→ Testing</h4>
+ <img src="https://images.app.goo.gl/LMCUSyXMbxPDwtJA8" alt="junit" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="selenium" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="jest" width="50" height="50"/>
+ 
+<h4>DB</h4>
+ <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgre" width="50" height="50"/>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!-- Languages -->
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgre" width="50" height="50"/>
+
+ 
+ 
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="50" height="50"/>
+ 
+<img src="" alt="spring" width="50" height="50"/>
+<img src="" alt="spring" width="50" height="50"/>
+<img src="" alt="spring" width="50" height="50"/>
+<img src="" alt="spring" width="50" height="50"/>
+<img src="" alt="spring" width="50" height="50"/>
+<img src="" alt="spring" width="50" height="50"/>
+<img src="" alt="spring" width="50" height="50"/>
+<img src="" alt="spring" width="50" height="50"/>
+<img src="" alt="spring" width="50" height="50"/>
+<img src="" alt="spring" width="50" height="50"/>
+<img src="" alt="spring" width="50" height="50"/>
+<img src="" alt="spring" width="50" height="50"/>
+ 
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
+ https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
+</div>
 
 ## Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmartin-consuegraj&layout=compact"/>
