@@ -21,10 +21,12 @@ Now I'm focused on mastering Spring, Spring Boot and React.
  
  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="50" height="50"/>
  
  <!-- JUNIT goes here -->
+ <!-- NEXTJS goes here -->
  <img src="https://skills.thijs.gg/icons?i=selenium" alt="selenium" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
@@ -43,6 +45,7 @@ Now I'm focused on mastering Spring, Spring Boot and React.
  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/apache_struts/apache_struts-icon.svg" alt="struts" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
+ 
 </div>
 
 ## Most Used Languages
