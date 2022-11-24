@@ -41,6 +41,7 @@ Now I'm focused on mastering Spring, Spring Boot and React.
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
  <img src="https://skills.thijs.gg/icons?i=github" alt="github" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/apache_struts/apache_struts-icon.svg" alt="struts" width="50" height="50"/>
 </div>
 
 ## Most Used Languages
