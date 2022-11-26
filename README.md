@@ -13,8 +13,10 @@ Now I'm focused on mastering Spring, Spring Boot and React.
 <!-- https://www.vectorlogo.zone/logos/#mno -->
 
 <div>
- <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/>
+ 
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
+ <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="maven" width="50" height="50"/>
  
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/>
  <img src="https://skills.thijs.gg/icons?i=js" alt="js" width="50" height="50"/>
@@ -25,8 +27,10 @@ Now I'm focused on mastering Spring, Spring Boot and React.
  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="50" height="50"/>
  
- <!-- JUNIT goes here -->
+ 
+ <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="junit" width="50" height="50"/>
  <!-- NEXTJS goes here -->
+ 
  <img src="https://skills.thijs.gg/icons?i=selenium" alt="selenium" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
