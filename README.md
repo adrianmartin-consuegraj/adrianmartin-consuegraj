@@ -38,7 +38,6 @@ Now I'm focused on mastering Spring, Spring Boot and React.
  
  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="50" height="50"/>
- <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgre" width="50" height="50"/>
  
  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="50" height="50"/>
