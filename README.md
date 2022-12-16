@@ -2,7 +2,7 @@
 
 I obtanined a Higher National Diploma about Web Application Development in Madrid, which did nothing but make me feel more catched up by the whole world of programming: it's pretty stimulating the idea that there is always a way to do anything!<br>
 
-Now I'm focused on mastering Spring, Spring Boot and React.
+Now I'm focused on mastering Spring Boot and React.
 
 ## About me
  - 🏡 I'm currently in Madrid, Spain.</li>
