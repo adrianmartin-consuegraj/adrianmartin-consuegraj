@@ -52,8 +52,11 @@ Now I'm focused on mastering Spring Boot and React.
  
 </div>
 
+<!--
 ## Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmartin-consuegraj&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmartin-consuegraj&layout=compact">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmartin-consuegrajy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 ## Connect with me
