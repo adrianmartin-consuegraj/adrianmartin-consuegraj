@@ -49,10 +49,17 @@ Now I'm focused on mastering Spring Boot and React.
  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/apache_struts/apache_struts-icon.svg" alt="struts" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
- 
 </div>
 
+
 <!--
+## IDEs
+<div>
+ <img src="https://skillicons.dev/icons?i=eclipse" alt="eclipse" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=idea" alt="intellij" width="50" height="50"/>
+ <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="50" height="50"/>
+</div>
+
 ## Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmartin-consuegraj&layout=compact">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmartin-consuegrajy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
