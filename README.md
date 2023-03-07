@@ -6,7 +6,7 @@ Now I'm focused on mastering Spring Boot and React.
 
 ## About me
  - 🏡 I'm currently in Madrid, Spain.</li>
- - 💬 I can speak English, Spanish and a little bit of Portuguese and German.</li>
+ - 💬 I can speak English, Spanish and a little bit of German and Portuguese.</li>
  - 🌱 I work as a Java & React Developer.
  
 ## Languages and Tools
