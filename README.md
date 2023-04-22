@@ -10,7 +10,7 @@ Now I'm focused on mastering Spring.
 
 ## About me
  - 🏡 I'm currently in Madrid, Spain.</li>
- - 💬 I can speak English, Spanish and a little bit of German and Portuguese.</li>
+ - 💬 I can speak English, Spanish and a little bit of German and French.</li>
  - 🌱 I work as a Java Developer.
  
 ## Languages and Tools
