@@ -6,11 +6,11 @@ data-target="animated-image.originalImage">
 
 I obtanined a Higher National Diploma about Web Application Development in Madrid, which did nothing but make me feel more catched up by the whole world of programming: it's pretty stimulating the idea that there is always a way to do anything!<br>
 
-Now I'm focused on mastering Spring.
+Now I'm focused on mastering Java, Spring and React.
 
 ## About me
  - 🏡 I'm currently in Madrid, Spain.</li>
- - 💬 I can speak English, Spanish and a little bit of German and French.</li>
+ - 💬 I can speak English, Spanish and a little bit of German.</li>
  - 🌱 I work as a Java Developer.
  
 ## Languages and Tools
