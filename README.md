@@ -19,8 +19,11 @@ Now I'm focused on mastering Java, Spring and React.
 <div>
  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/>
- <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="maven" width="50" height="50"/>
-  
+ 
+ <img src="https://skills.thijs.gg/icons?i=maven" alt="maven" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="50" height="50"/>
+ 
  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/>
  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="50" height="50"/>
  <img src="https://skills.thijs.gg/icons?i=docker" alt="docker" width="50" height="50"/>
