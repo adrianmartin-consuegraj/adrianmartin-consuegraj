@@ -4,7 +4,7 @@ style="width: 2%; display: inline-block;"
 data-target="animated-image.originalImage">
 </h1>
 
-I obtanined a Higher National Diploma about Web Application Development in Madrid, which did nothing but make me feel more catched up by the whole world of programming: it's pretty stimulating the idea that there is always a way to do anything!<br>
+I obtanined a Higher National Diploma about Web Application Development in Madrid, which did nothing but make me feel more caught up by the whole world of programming: it's pretty stimulating the idea that there is always a way to do anything!<br>
 
 Now I'm focused on mastering Java, Spring and React.
 
