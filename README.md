@@ -2,7 +2,7 @@
 
 I obtanined a Higher National Diploma about Web Application Development in Madrid, which did nothing but make me feel more caught up by the whole world of programming: it's pretty stimulating the idea that there is always a way to do anything!<br>
 
-Now I'm focused on mastering Java, Spring and Angular. Currently
+Now I'm focused on mastering Java, Spring and Angular.
 
 ## About me
  - 🏡 I'm currently coursing a bachellor degree in Computing and Information Systems.</li>
